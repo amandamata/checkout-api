@@ -1,6 +1,6 @@
 <h2>Ecommerce-api</h2>
 
-<h2>Desenvolvimento de uma solução e-commerce com microserviços/h2>
+<h2>Desenvolvimento de uma solução e-commerce com microserviços</h2>
 
 
 Pré-requisitos:
